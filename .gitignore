@@ -194,3 +194,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+.idea/.idea.VTuber/.idea/contentModel.xml
+.idea/.idea.VTuber/.idea/modules.xml
+.idea/.idea.VTuber/.idea/vcs.xml
+.idea/.idea.VTuber/riderModule.iml
