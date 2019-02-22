@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Sprites/VTuber.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Sprites/VTuber.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0

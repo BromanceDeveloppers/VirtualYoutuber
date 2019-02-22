@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: b1f65286bfbe50c4dbce2be0f430d6f4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VTuber_Body
+    21300002: VTuber_Face_1
+    21300004: VTuber_Face_2
+    21300006: VTuber_Face_3
+    21300008: VTuber_Face_4
+    21300010: VTuber_Face_5
+    21300012: VTuber_Head
+    21300014: VTuber_HeadPhone
+    21300016: VTuber_LHand
+    21300018: VTuber_RHand
+    21300020: VTuber_RWrist
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VTuber_Body
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 197
+        width: 63
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.46551725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc37d25ca5819a44a910a0dc92be2a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_Face_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 136
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37288135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1403cba1da977c345bfebc12e80e2d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_Face_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 133
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37288135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf52afd71386742887640660c6afe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_Face_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37288135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae3aea6fc095964a9b5461f145923c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_Face_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37288135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0651f1c1e730bc4987bc100904f50ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_Face_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37288135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80605076ce1c65540b681ed85ece1faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_Head
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 170
+        width: 89
+        height: 85
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b523faf247809b940acd710338f60d8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_HeadPhone
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 194
+        width: 80
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.3442623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b1627ba9eacdd43af0db246e88e6ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_LHand
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 120
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d2b417fcf77c44e8222444fd17b5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_RHand
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 33
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950620dcafcb5b64d9ee33784971832b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VTuber_RWrist
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 175
+        width: 23
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21582cf20a952b4eb9e00a032215a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d705bbee90cd7f7448fcbda9ba2c817b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
